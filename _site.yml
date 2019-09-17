@@ -1,0 +1,21 @@
+  
+name: "nedcrowley.com"
+navbar:
+  title: "coming soon"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: cv.html
+      
+  right:
+    - icon: ai-academia
+      href: "https://nyu.academia.edu/NedCrowley"
+      
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
