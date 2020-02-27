@@ -1,4 +1,3 @@
-  
 name: "nedcrowley.com"
 navbar:
   title: "coming soon"
@@ -12,10 +11,10 @@ navbar:
       
   right:
     - icon: ai-academia
+      text: "academia"
       href: "https://nyu.academia.edu/NedCrowley"
       
 output:
   html_document:
     theme: cosmo
     highlight: textmate
-    css: styles.css
