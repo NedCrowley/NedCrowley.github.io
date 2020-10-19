@@ -1,7 +1,11 @@
 ---
-title: "coming soon"
+title: ''
 ---
+<link rel="stylesheet" href="css/academicons.min.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-# Hello word
+
+<img src="Crowley-dept-couch.jpg" style="width:25%; margin-right: 20px" align="left">    
     
-![Photo by Doug Maloney on Unsplash](dexter.jpg)
+I am a PhD candidate in sociology at New York University 
+
