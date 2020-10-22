@@ -1,0 +1,30 @@
+---
+title: "Research"
+output: html_document
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="css/academicons.min.css"/>
+
+### Scarcity Politics: Budget Deficits, Public Debt, and Distributive Conflict
+
+My dissertation research focuses on the political, institutional, and cultural dynamics surrounding public finance and fiscal policy. Using statistical and computational methods for analyzing public opinion surveys, administrative data, and textual evidence, I ask how and why issues in public finance--especially the public debt--periodically move to the top of the policy agenda, as well as what consequences fiscal policy-making has had on ordinary people’s welfare, attitudes, and aspirations. 
+
+The project begins with an exploration of budget deficits and public debt in political discourse since the 1980s, paying particular attention to how the problem of debt is defined, to whom responsibility for debt is attributed, and what policy options are included or excluded from the set of solutions up for debate. I apply methods from computational text analysis and natural language processing to an original corpus consisting of thousands of pages of text from Congressional debates, Presidential budget messages, and think tank press releases. 
+
+The second empirical chapter looks more closely at the federal budget-making process, especially the (often contradictory) pressures emanating from public opinion and party activists, organized political and economic interests, and the institutional rules governing public finance. The analysis centers on the 17-day government shutdown in October 2013, a crucial case for understanding the dynamics that cause policy dysfunction. 
+
+The final empirical chapter asks how debates over public finance and the implementation of austerity measures have influenced inter-group conflict with respect to race, ethnicity, and nativity. Through parallel, quantitative case studies of the United States and United Kingdom, I demonstrate that fiscal austerity measures contributed to the growing politics of xenophobia and ethnonationalism since the global financial crisis.
+
+
+### Political Participation Project at the Urban Democracy Lab
+
+With Gianpaolo Baiocchi, I am the co-principal investigator of the Political Participation Project (P$^3$), a grant-funded study of political participation and community-based organizations in New York City. Along with our research team, Lili Dao, Rachel Kuo, and Virgilio Urbina Lazardi, we gathered some 50 interviews and dozens of hours of participant observation over nine months of data collection in partnership with three organizations in NYC. Prior to the main data collection effort, we with nearly a dozen organizers and activists working on issues relation to housing, education, immigration, and labor to find out what questions matter to them, what policy issues or organizational dynamics would benefit from sociological attention, and how we can be sure to avoid the extractive, nonreciprocal relationship researchers sometimes fall into with their participants. Preliminary findings have been summarized in an internal report provided to the grant-giving foundation and partner organizations, titled “To the Ballot Box and Beyond: Civic Engagement and Community Organizing in New York City.” A public version of the report will be available soon; contact me for a pre-print. 
