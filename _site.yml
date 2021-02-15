@@ -20,4 +20,5 @@ navbar:
       href: https://www.researchgate.net/profile/Ned_Crowley2
 output:
   html_document:
-    css: styles.css
+    theme: paper
+    css: 'style.css'
