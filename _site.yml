@@ -21,4 +21,4 @@ navbar:
 output:
   html_document:
     highlight: textmate
-    css: styles.css
+    css: 'styles.css'
