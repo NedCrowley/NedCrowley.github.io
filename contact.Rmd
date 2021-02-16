@@ -7,4 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The best way to reach me is by email: ned.crowley@nyu.edu
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="css/academicons.min.css"/>
+
+The best way to reach me is by email: [ned.crowley@nyu.edu](ned.crowley@nyu.edu)

@@ -7,6 +7,8 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -18,4 +20,6 @@ navbar:
       href: https://www.researchgate.net/profile/Ned_Crowley2
 output:
   html_document:
+    theme: cosmo
+    highlight: textmate
     css: styles.css

@@ -1,6 +1,7 @@
 ---
 title: ""
 output: html_document
+layout: default
 ---
 <style>
 body {
