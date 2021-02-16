@@ -1,0 +1,13 @@
+---
+title: "Contact"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="css/academicons.min.css"/>
+
+The best way to reach me is by email: [ned.crowley@nyu.edu](ned.crowley@nyu.edu)

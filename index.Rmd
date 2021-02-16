@@ -1,0 +1,30 @@
+---
+title: "Ned Crowley"
+output: html_document
+layout: default
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="css/academicons.min.css"/>
+
+
+<img src="Crowley-dept-couch.jpg" style="width:25%; margin-right: 20px" align="left">
+
+I am a PhD candidate in sociology at New York University. My [research](research.html) deals with political and economic sociology, public policy, public opinion, and political behavior. 
+
+My dissertation---__Scarcity Politics: Budget Deficits, Public Debt, and Distributive Conflict__---explores the political economic and institutional dynamics that shape American public finance and fiscal policy, as well as what these politics mean for inequality, public attitudes and policy preferences, and inter-group conflict. 
+
+I am also the co-principal investigator with Professor Gianpaolo Baiocchi of the Politial Participation Project at NYU's [Urban Democracy Lab](urbandemos.nyu.edu), a collaborative, multi-site interview and ethnographic study of civic enagagement, political participation, and community organizing in New York City. 
+
+You can find my publications and working papers on my [Academia.edu](https://nyu.academia.edu/NedCrowley) page. My CV can be downloaded [here](Crowley_CV_10-2020.pdf).
+
+<br>
+<span style="color: grey;">(Credit is due to [Emily Zabor](http://www.emilyzabor.com/) for the web page model in R Markdown)</span>
