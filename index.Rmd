@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <link rel="stylesheet" href="css/academicons.min.css"/>
 
 
-<img src="Crowley-dept-couch.jpg" style="width:25%; margin-right: 20px" align="left">
+<img src="Crowley-dept-couch.jpg" style="width:25%;border:5px solid; margin-right: 20px" align="left">
 
 I am a PhD candidate in sociology at New York University. My [research](research.html) deals with political and economic sociology, public policy, public opinion, and political behavior. 
 
@@ -24,7 +24,7 @@ My dissertation---__Scarcity Politics: Budget Deficits, Public Debt, and Distrib
 
 I am also the co-principal investigator with Professor Gianpaolo Baiocchi of the Politial Participation Project at NYU's [Urban Democracy Lab](urbandemos.nyu.edu), a collaborative, multi-site interview and ethnographic study of civic enagagement, political participation, and community organizing in New York City. 
 
-You can find my publications and working papers on my [Academia.edu](https://nyu.academia.edu/NedCrowley) page. My CV can be downloaded [here](Crowley_CV_10-2020.pdf).
+My publications and working papers are available on my [Academia.edu](https://nyu.academia.edu/NedCrowley) page. My CV can be downloaded [here](Crowley_CV_Jan21.pdf).
 
 <br>
-<span style="color: grey;">(Credit is due to [Emily Zabor](http://www.emilyzabor.com/) for the web page model in R Markdown)</span>
+<span style="color: grey;">(Credit is due to [Emily Zabor](http://www.emilyzabor.com/) for the web page model.)</span>
