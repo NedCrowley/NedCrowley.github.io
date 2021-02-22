@@ -14,17 +14,44 @@ knitr::opts_chunk$set(echo = TRUE)
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="css/academicons.min.css"/>
 
-### Scarcity Politics: Budget Deficits, Public Debt, and Distributive Conflict
+Click on the description under each project to display a longer summary. 
 
-My dissertation research focuses on the political, institutional, and cultural dynamics surrounding public finance and fiscal policy. Using statistical and computational methods for analyzing public opinion surveys, administrative data, and textual evidence, I ask how and why issues in public finance--especially the public debt--periodically move to the top of the policy agenda, as well as what consequences fiscal policy-making has had on ordinary people’s welfare, attitudes, and aspirations. 
+
+#### Scarcity Politics: Budget Deficits, Public Debt, and Distributive Conflict
+<details>
+  <summary>My dissertation research focuses on the political, institutional, and cultural dynamics surrounding public finance and fiscal policy in the United States since 1974.</summary> 
+
+Using statistical and computational methods for analyzing public opinion surveys, administrative data, and textual evidence, I ask how and why issues in public finance--especially the public debt--periodically move to the top of the policy agenda, as well as what consequences fiscal policy-making has had on ordinary people’s welfare, attitudes, and aspirations. 
 
 The project begins with an exploration of budget deficits and public debt in political discourse since the 1980s, paying particular attention to how the problem of debt is defined, to whom responsibility for debt is attributed, and what policy options are included or excluded from the set of solutions up for debate. I apply methods from computational text analysis and natural language processing to an original corpus consisting of thousands of pages of text from Congressional debates, Presidential budget messages, and think tank press releases. 
 
 The second empirical chapter looks more closely at the federal budget-making process, especially the (often contradictory) pressures emanating from public opinion and party activists, organized political and economic interests, and the institutional rules governing public finance. The analysis centers on the 17-day government shutdown in October 2013, a crucial case for understanding the dynamics that cause policy dysfunction. 
 
-The final empirical chapter asks how debates over public finance and the implementation of austerity measures have influenced inter-group conflict with respect to race, ethnicity, and nativity. Through parallel, quantitative case studies of the United States and United Kingdom, I demonstrate that fiscal austerity measures contributed to the growing politics of xenophobia and ethnonationalism since the global financial crisis.
+The final empirical chapter asks how debates over public finance and the implementation of austerity measures have influenced inter-group conflict with respect to race, ethnicity, and nativity. Through parallel, quantitative case studies of the United States and United Kingdom, I demonstrate that fiscal austerity measures contributed to the growing politics of xenophobia and ethnonationalism since the global financial crisis. An abbreviated version of this chapter was included in the edited volume _Mapping Populism: Approaches and Methods_ edited by Amin Ron and Majia Nadesan (2020). The chapter can be [downloaded here](Crowley_2020_AusterityEthnonationalism.pdf). 
+</details>
 
+<br>
 
-### Political Participation Project at the Urban Democracy Lab
+#### Fiscal Austerity, Welfare Chauvinism, and Ethnic Nationalism 
+<details>
+  <summary>Have fiscal austerity measures since the global financial crisis contributed to the renewal of right-wing populist and ethnic nationalist parties in Europe?</summary>
 
-With Gianpaolo Baiocchi, I am the co-principal investigator of the Political Participation Project (P$^3$), a grant-funded study of political participation and community-based organizations in New York City. Along with our research team, Lili Dao, Rachel Kuo, and Virgilio Urbina Lazardi, we gathered some 50 interviews and dozens of hours of participant observation over nine months of data collection in partnership with three organizations in NYC. Prior to the main data collection effort, we with nearly a dozen organizers and activists working on issues relation to housing, education, immigration, and labor to find out what questions matter to them, what policy issues or organizational dynamics would benefit from sociological attention, and how we can be sure to avoid the extractive, nonreciprocal relationship researchers sometimes fall into with their participants. Preliminary findings have been summarized in an internal report provided to the grant-giving foundation and partner organizations, titled “To the Ballot Box and Beyond: Civic Engagement and Community Organizing in New York City.” A public version of the report will be available soon; contact me for a pre-print. 
+Building on the final chapter of my dissertation, my current research looks at the link between austerity and welfare chauvinist attitudes across Europe and North American. Welfare chauvinism---the belief only a circumscribed category of (usually native born) citizens ought to be elgible for welfare state benefits---is a central ideological pillar for the family of right-wing populist parties in Europe. In this project, I ask whether threats to welfare state provisions represented by fiscal austerity exacerbated underlying welfare chauvinist attitudes in public opinion and contributed to the "demand-side" conditions for right-wing populist and ethnic nationalist parties. Preliminary results from this research were selected for the Society for the Advancement of Socio-Economics (SASE) Early Career Workshop Award. 
+</details>
+
+<br>
+
+#### Political Participation Project at the Urban Democracy Lab
+<details>
+  <summary>How do community-based organizations build political motivations, identities, and skills among their members and constituents? And how do understandings and resources developed in one context of civic engagement spill over into other political domains, fostering a more participatory democracy? </summary>
+
+With Gianpaolo Baiocchi, I am the co-principal investigator of the Political Participation Project (P$^3$), a grant-funded study of political participation and community-based organizations in New York City. Along with our research team, Lili Dao, Rachel Kuo, and Virgilio Urbina Lazardi, we gathered some 50 interviews and dozens of hours of participant observation over nine months of data collection in partnership with three organizations in NYC. Prior to the main data collection effort, we with nearly a dozen organizers and activists working on issues relation to housing, education, immigration, and labor to find out what questions matter to them, what policy issues or organizational dynamics would benefit from sociological attention, and how we can be sure to avoid the extractive, nonreciprocal relationship researchers sometimes fall into with their participants. Our findings so far have been summarized in an preliminary report, titled [“To the Ballot Box and Beyond: Civic Engagement and Community Organizing in New York City.”](P3_BallotBoxandBeyond.pdf) 
+</details>
+
+<br>
+
+#### Housing Security in the Age of COVID-19
+<details> 
+<summary> The United States was already experience a crisis of housing security before the pandemic, and things have only grown more desparate in the last year. What are the major sources of vulnerability for low-income renters, and how what policies can be deployed by governments at every level to prevent an eviction and foreclosure crisis? </summary>
+
+The COVID-19 pandemic only increases the pressure on tenants across the country, especially in communities of color, who were already burdened by high rents and facing displacement. Through a series of white papers and reports, Gianpaolo Baoicchi, Marnie Brady, H. Jacob Carlson, Sara Duvisac, and I lay out major threats to housing security today as well as policy solutions that could prevent an even more severe crisis. This includes a [report on how the pandemic may exacerbate the financializaiton of housing](DuvisacBradyCrowley_PrivateEquity_Covid19.pdf), as private equity firms and corporate landlords position themselves to exploit the crisis and expand their presence in the multi-family rental housing market. 
